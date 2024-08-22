@@ -1,5 +1,6 @@
 # Web-Development-Projects
 This is a website designed specially for the whole-sellers and the shopkeeper to cut short the middlemen in selling and purchase of the products in wholesale . 
+
 ![Screenshot 2024-08-23 032318](https://github.com/user-attachments/assets/8092fc51-bd29-4f19-8ca1-f2a012ae2251)
 
 ![Screenshot 2024-08-23 032344](https://github.com/user-attachments/assets/a7a657bd-6da6-423b-b70d-648cc752d945)
